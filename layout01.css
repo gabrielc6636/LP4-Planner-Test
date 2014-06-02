@@ -1,0 +1,42 @@
+/* a bit of housekeeping - ignore this bit */
+body {
+color: #000;
+background: #efefef;
+font-family: Helvetica, Arial, sans-serif;
+text-align: center;
+}
+#page {
+width: 600px;
+text-align: left;
+margin: 0 auto;
+padding: 2em;
+background: #fff;
+}
+select { 
+font-size: 20px;/*tamaño de la letra del select*/ 
+color:#3300CC;/*color de letra*/ 
+}
+
+/* the table */
+
+table {
+width: 100%;
+border: 1px solid #000;
+border-collapse: collapse;
+caption-side: top;
+}
+th, td {
+/*width: 15%;*/
+text-align: center;
+vertical-align: top;
+border: 1px solid #000;
+padding: 0.3em;
+}
+caption {
+padding: 0.3em;
+color: #fff;
+background: #000;
+}
+th {
+background: #eee;
+}
