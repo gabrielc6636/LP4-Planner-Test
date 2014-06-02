@@ -49,5 +49,14 @@ $resultado = 'Carga realizada exitosamente';
                	</div>
             </div> 
 </div>
+	<div id="footer">
+    	<div style="float:right;margin-top: 10px;">
+        	<p style="margin:0px;color: #CCC;font-size:10px">Disponible en</p>
+        	<img src="img/android.png" />
+        </div>
+    </div>
+    <div id="footer2" align="center" style="color:#CCCCCC;">
+    	<p style="font-size:10px;margin:0;padding-top:8px;">Copyright© 2014 - Todos los derechos reservados a Academic Planner</p>
+    </div>
 </body>
 </html>
